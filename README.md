@@ -1,5 +1,3 @@
-**Now Playing**
-
-<a href="https://status.nmoo.dev/now-playing?open">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
+<a href="https://diogo.codes">
+    <img src="https://raw.githubusercontent.com/JoFont/JoFont/master/assets/banner.png">
 </a>
