@@ -4,6 +4,7 @@
 I'm a frontend engineer at [Mobrand](https://www.mobrand.com/) and a tinkerer in the afternoons!
 
 ![Diogo's github stats](https://github-readme-stats.vercel.app/api?username=JoFont&count_private=true&show_icons=true)
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=JoFont.visitor-badge)](https://github.com/JoFont)
 
 
