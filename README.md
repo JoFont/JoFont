@@ -9,7 +9,7 @@ I'm a frontend engineer at [Mobrand](https://www.mobrand.com/) and a tinkerer in
 **Ingredients:**
 * Martin Millers Dry Gin (a lot of it)
 * Noilly Prat Dry Vermouth
-* 3x Olives or one Lemon Twist
+* 3x Green Olives or 1x Lemon Twist
 
 **Preparation**
 1. Fill a cocktail glass with ice and water to chill it down.
