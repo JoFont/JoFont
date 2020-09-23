@@ -7,7 +7,7 @@ I'm a frontend engineer at [Mobrand](https://www.mobrand.com/) and a tinkerer in
 
 ## The Perfect Dry Martini Recipe
 **Ingredients:**
-* Martin Millers Dry Gin (a lot of it)
+* Martin Millers or Plymouth Dry Gin (a lot of it)
 * Noilly Prat Dry Vermouth
 * 3x Green Olives or 1x Lemon Twist
 
