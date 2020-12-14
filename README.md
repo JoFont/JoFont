@@ -1,7 +1,7 @@
 
 # 👋 Hi there!
 
-I'm a frontend engineer at [Mobrand](https://www.mobrand.com/) and a tinkerer in the afternoons!
+I'm a frontend engineer at [Observador](https://observador.pt/) and a tinkerer in the afternoons!
 
 ![Diogo's github stats](https://github-readme-stats.vercel.app/api?username=JoFont&count_private=true&show_icons=true&hide_title=true&hide_border=true)
 
