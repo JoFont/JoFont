@@ -7,13 +7,13 @@ I'm a Frontend Engineer at [Mercedes-Benz.io](https://mercedes-benz.io/) and a t
 
 ## The Perfect Dry Martini Recipe
 **Ingredients:**
-* Martin Millers or Plymouth Dry Gin (a lot of it)
-* Noilly Prat Dry Vermouth
+* 2 1/2 oz - Martin Millers or Plymouth Dry Gin.
+* 1 Drop - Noilly Prat Dry Vermouth
 * 3x Green Olives or 1x Lemon Twist
 
 **Preparation**
 1. Fill a cocktail glass with ice and water to chill it down.
-2. In a stirring glass, add plenty of ice and enough Gin to fill the glass (usually 3 or 4oz).
+2. In a stirring glass, add the Gin and plenty of ice.
 3. Stir well for 20 seconds to dilute the Gin and cool it down.
 4. Dispose of the ice and water in the cocktail glass.
 5. Add just a tiny bit of Vermouth in the glass and move the glass around to coat the whole glass, dispose of the rest that is left in the glass.
