@@ -8,7 +8,7 @@ I'm a Frontend Engineer at [Mercedes-Benz.io](https://mercedes-benz.io/) and a t
 ## The Perfect Dry Martini Recipe
 **Ingredients:**
 * 2 1/2 oz - Martin Millers or Plymouth Dry Gin.
-* 1 Drop - Noilly Prat Dry Vermouth
+* 1 Drop - Noilly Prat or La Quintinye Dry Vermouth
 * 3x Green Olives or 1x Lemon Twist
 
 **Preparation**
