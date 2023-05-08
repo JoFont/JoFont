@@ -19,7 +19,7 @@ I'm a Frontend Engineer at [Mercedes-Benz.io](https://mercedes-benz.io/) and a t
 5. Add just a tiny bit of Vermouth in the glass and move the glass around to coat the whole glass, dispose of the rest that is left in the glass.
 6. Strain the Gin into the glass.
 7. Garnish with 3 olives in a pick or rub a lemon twist around the rim of the glass and then add it to the drink.
-8. Rinse and Repeat 😊
+8. Drink, Rinse and Repeat 😊
 
 
 
